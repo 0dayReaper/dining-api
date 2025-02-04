@@ -26,3 +26,4 @@ Then, you can run the server with ```bun start``` and it should work! You can al
 ```bun run start``` since ```bun start``` is its shorthand version.
 
 Note: To add new dependencies, use ```bun add dependency-name```. To remove dependencies, use ```bun remove dependency-name```.
+
